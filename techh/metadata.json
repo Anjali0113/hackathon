@@ -1,0 +1,6 @@
+{
+  "name": "Smart Safe Route Finder",
+  "description": "AI-Powered Urban Mobility Solution for India. Finds the safest routes between locations using real-time data simulation and OSRM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
